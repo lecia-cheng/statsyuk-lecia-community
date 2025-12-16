@@ -1,0 +1,6 @@
+{
+  "/leaderboard/page": "app/leaderboard/page.js",
+  "/groups/page": "app/groups/page.js",
+  "/community/page": "app/community/page.js",
+  "/progress/page": "app/progress/page.js"
+}
